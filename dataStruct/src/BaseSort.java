@@ -106,4 +106,8 @@ public class BaseSort {
         System.out.println(Arrays.toString(arr));
     }
 
+    public void test2() {
+        System.out.println("喔哈喷");
+    }
+
 }
